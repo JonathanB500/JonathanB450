@@ -1,6 +1,6 @@
 Hi there.
 
-I'm a web developer, React Js 💙 Node Js.
+I'm a Fullstack web developer, React Js 💙 Node Js.
 
 This is my technologies stack 🖥:
 
